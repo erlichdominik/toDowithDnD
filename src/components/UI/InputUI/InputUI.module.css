@@ -1,0 +1,33 @@
+.InputTasksContainer {
+  display: flex;
+  width: 49%;
+  justify-content: center;
+  align-items: stretch;
+  float: left;
+}
+
+.input {
+  height: 30px;
+  width: 51%;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px 0;
+}
+.input:focus {
+  outline: none;
+}
+
+.textarea {
+  resize: none;
+  width: 51%;
+  /* height: 30px; */
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.textarea:focus {
+  outline: none;
+}

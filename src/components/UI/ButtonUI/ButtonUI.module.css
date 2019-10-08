@@ -1,0 +1,16 @@
+.button {
+  width: 51%;
+  border: 1px solid black;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: #6600dd;
+  color: #ffffff;
+}
+.button:focus {
+  outline: none;
+}
+.button:hover {
+  cursor: pointer;
+}

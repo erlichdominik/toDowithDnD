@@ -1,0 +1,6 @@
+.showTasksContainer {
+  width: 100%;
+  justify-content: center;
+  align-items: stretch;
+  margin-top: 20px;
+}

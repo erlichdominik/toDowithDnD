@@ -1,0 +1,8 @@
+.to-do-list {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  width: 60%;
+  margin: auto;
+  flex-wrap: wrap;
+}
